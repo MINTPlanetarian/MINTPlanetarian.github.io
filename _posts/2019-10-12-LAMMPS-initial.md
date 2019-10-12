@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Lammps学习笔记-原子定义命令
+title:      Lammps学习笔记-初始化
 subtitle:   Define atom
 date:       2019-10-12
 author:     薄论
