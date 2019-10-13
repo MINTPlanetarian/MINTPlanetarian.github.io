@@ -60,7 +60,11 @@ tags:
 
 `dimension`命令用来定义模拟的维度。
 
+<<<<<<< HEAD
 `N`可取`2`或`3`，表示模拟系统的维度为2或者3。
+=======
+N可取`2`或`3`，表示模拟系统的维度为2或者3。
+>>>>>>> 40e0d3fbc23c084d9f0845f5f20474ef03cccacc
 
 #### units style
 
@@ -98,4 +102,4 @@ tags:
 
 ![1570920074677](https://s2.ax1x.com/2019/10/13/ujBVU0.png)
 
-非常感谢他，这是[原文链接](http://www.52souji.net/lammps-command-index.html)，除了copy他的资料以外，其实我还加入了些自己对Lammps操作命令的理解，但愿我能尽快学完后面的东西吧！
+非常感谢他，这是[原文链接](http://www.52souji.net/lammps-command-index.html)，除了copy他的资料以外，其实我还加入了些自己对Lammps操作命令的理解，但愿我能尽快学完后面的东西吧~
